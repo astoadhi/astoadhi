@@ -9,10 +9,9 @@
 ### Connect with me:
 
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/triasto-adhinugroho
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/triasto-adhinugroho-04194a154/
 #gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/triasto-adhinugroho
-#gh-dark-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/triasto-adhinugroho-04194a154/#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://instagram.com/astoadhi#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/astoadhi#gh-dark-mode-only)
