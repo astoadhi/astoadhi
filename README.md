@@ -20,6 +20,6 @@
 
 <br />
 <br />
-
+---
 [instagram]: https://instagram.com/astoadhi
 [linkedin]: https://www.linkedin.com/in/triasto-adhinugroho
