@@ -15,12 +15,11 @@
 [![website](./img/instagram-dark.svg)](https://instagram.com/astoadhi#gh-dark-mode-only)
 
 ### Languages and Tools:
-
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />][webdevplaylist]
+
 
 <br />
 <br />
----
+
 [instagram]: https://instagram.com/astoadhi
 [linkedin]: https://www.linkedin.com/in/triasto-adhinugroho
