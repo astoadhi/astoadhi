@@ -3,7 +3,7 @@
 ## I'm a Data Analytic and Data Science Enthusiast !!
 
 - 🌱 I’m currently learning TensorFLow and NLP
-- 🥅 2022 Goals: Learn more about Data Science
+- 🥅 2022 Goals: Learn more about Deep Learning
 - ⚡ Fun fact: I love to play basketball
 
 <h3 align="left">Languages and Tools:</h3>
