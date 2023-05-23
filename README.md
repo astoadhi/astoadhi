@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Data Science**
 
-- 👨‍💻 All of my projects are available at [https://astoadhi.github.io/Portfolio/](https://astoadhi.github.io/Portfolio/)
+
 
 - 📫 How to reach me **asto.adhinugroho@gmail.com**
 
