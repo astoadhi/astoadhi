@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Triasto Adhinugroho</h1>
 <h3 align="center">A Data Enthusiast from Indonesia</h3>
 
-- 🌱 I’m currently learning **Data Science**
+- 🌱 I’m currently learning **AI and Machine Learning**
 
 - 👨‍💻 All of my projects are available at [portfolio](https://github.com/astoadhi/data-science-portfolio)
 
