@@ -5,7 +5,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Triasto+Adhinugroho!;" />
 </h1>
 
-<h3 align="center">A passionate data enthusiast from Indonesia </h3>
+<h3 align="center">A detail-orientated data enthusiast from Indonesia who adept at making critical decisions, managing deadlines and conducting team reviews. With expertise in analysis and quantitative problem-solving skills, dedicated to company growth and improvements. Seeking a challenging role to leverage my expertise and contribute to data-driven decision-making. </h3>
 
 <br/>
 
