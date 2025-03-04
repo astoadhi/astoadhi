@@ -10,9 +10,31 @@
 <br/>
 
 <div align="center">
- 🌱 I’m currently learning **AI and Machine Learning**
+ ## 🧰 Skills & Tools
 
-💬 Ask me about **Data Visualization, Data Wrangling, Data Analysis**
+### Data Analysis
+- Python (Pandas, NumPy, SciPy)
+- SQL
+- Statistical Analysis
+- Exploratory Data Analysis
+
+### Data Visualization
+- Matplotlib
+- Seaborn
+- Tableau
+- Power BI
+
+### Machine Learning
+- Scikit-learn
+- Regression Models
+- Classification Algorithms
+- Clustering Techniques
+
+### Tools & Platforms
+- Jupyter Notebooks
+- Git & GitHub
+- VS Code
+- Google Colab
 
  </div>
  
