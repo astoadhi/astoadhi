@@ -8,10 +8,6 @@
 <h3 align="center">A detail-orientated data enthusiast from Indonesia who adept at making critical decisions, managing deadlines and conducting team reviews. With expertise in analysis and quantitative problem-solving skills, dedicated to company growth and improvements. Seeking a challenging role to leverage my expertise and contribute to data-driven decision-making. </h3>
 
 <br/>
-
-
-
- </div>
  
 <div align="center"> 
   <a href="mailto:asto.adhinugroho@gmail.com">
