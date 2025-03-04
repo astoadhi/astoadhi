@@ -9,8 +9,7 @@
 
 <br/>
 
-<div align="center">
- ## 🧰 Skills & Tools
+## 🧰 Skills & Tools
 
 ### Data Analysis
 - Python (Pandas, NumPy, SciPy)
